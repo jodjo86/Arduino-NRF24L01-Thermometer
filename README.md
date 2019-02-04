@@ -13,6 +13,7 @@ The idea is to have reliable RF communications, using small packet sizes, low tr
 * USB cables
 * The Arduino IDE
 * Maniacbug's [RF24 Library](https://github.com/maniacbug/RF24)
+  Une autre library a été utilisé : https://github.com/nRF24/RF24
 * Paul Stoffregen's [One-Wire library](http://www.pjrc.com/teensy/arduino_libraries/OneWire.zip)
 * Miles Burton's [DallasTemperature library](https://github.com/milesburton/Arduino-Temperature-Control-Library)
 * Basic C knowledge
